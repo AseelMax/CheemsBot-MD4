@@ -8783,8 +8783,8 @@ title:"I deserve something for my hardwork",
 body: "Click to donate", 
 thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://telegra.ph/file/8737b098fd5702daeb7e0.jpg',
-sourceUrl: "https://telegra.ph/file/8737b098fd5702daeb7e0.jpg"
+mediaUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd20ftiO9zPnKyhD29o7MWogc2em1bN1s2dNHf39ciG1utj7CSzvXwtPISoUxhlrqRKVOWiYfhspa0AzOnJ8LrhP_5A_zXAnDegrg9CKW02zZnfFhZCPCN9nxQNCrBCXWvb0fg5-Kw3ghqgBfwIenYfY-UJbb95rAQck5DV4LVVrkwutd9AcaVIiVQ/s1280/gojosensei.jpg',
+sourceUrl: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd20ftiO9zPnKyhD29o7MWogc2em1bN1s2dNHf39ciG1utj7CSzvXwtPISoUxhlrqRKVOWiYfhspa0AzOnJ8LrhP_5A_zXAnDegrg9CKW02zZnfFhZCPCN9nxQNCrBCXWvb0fg5-Kw3ghqgBfwIenYfY-UJbb95rAQck5DV4LVVrkwutd9AcaVIiVQ/s1280/gojosensei.jpg"
 }}
 }
 XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
