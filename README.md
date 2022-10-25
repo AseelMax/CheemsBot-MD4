@@ -2,7 +2,7 @@
 
 <h1 align="center">⚜️ᗷOT ᗴᒪᘜᗩᘔᗩᖇ⚜️<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/9d09a00e6c16ca29eead1.jpg" alt="animated" width="540" height="280" />
+<img src="https://lh6.googleusercontent.com/91L1xCWnIbjM3aLAtsNE2b67bLohkvGmVCvCN_j6fNaYiQlU4K6u0MXD7cF37cK7eAS_BjkfgFYViOxOTsYxYHE=w1280" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
