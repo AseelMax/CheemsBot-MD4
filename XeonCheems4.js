@@ -9498,10 +9498,10 @@ await XeonBotInc.send5ButImg(from, `╔═══════✪「 قائمه ا
 ╠ ${prefix}سوره القصص
 ╠ ${prefix}سوره النور
 ╠══════✪「 قائمه معلومات المطور 」
-╠ ${prefix}رقم المطور/ https://api.whatsapp.com/send?phone=+201098906252
-╠ ${prefix}قناه اليوتيوب/ https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g
-╠ ${prefix}انستجرامي/ https://instagram.com/a_d_a_l_l_a_h?igshid=YmMyMTA2M2Y=
-╠ ${prefix}جروب الدعم/ https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn
+╠ ${prefix}رقم المطور/ https://api.whatsapp.com/send?phone=+967772005659
+╠ ${prefix}موقع المطور/ https://aseeladayahs.blogspot.com/?hl=ar&m=1
+╠ ${prefix}حسابي تيليجرام/ https://t.me/Aseelp0 
+╠ ${prefix}الدعم/ https://api.whatsapp.com/send?phone=+967772005659
 ╠══════✪「 قائمه رمزيات اولاد 」
 ╠ ${prefix}رمزيه1
 ╠ ${prefix}رمزيه2
@@ -10232,10 +10232,10 @@ case 'databasemenu':
 	if (isBanChat) return reply(mess.banChat)
 var unicorn = await getBuffer(picak+'Database Menu')
 await XeonBotInc.send5ButImg(from, `╔═══✪「 قائمه معلومات المطور 」	
-╠ ${prefix}رقم المطور/ https://api.whatsapp.com/send?phone=+201098906252
-╠ ${prefix}قناه اليوتيوب/ https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g
-╠ ${prefix}انستجرامي/ https://instagram.com/a_d_a_l_l_a_h?igshid=YmMyMTA2M2Y=
-╠ ${prefix}جروب الدعم/ https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn
+╠ ${prefix}رقم المطور/ https://api.whatsapp.com/send?phone=+967772005659
+╠ ${prefix}موقع المطور/ https://aseeladayahs.blogspot.com/?hl=ar&m=1
+╠ ${prefix}تيلجرامي/ https://t.me/Aseelp0
+╠ ${prefix}الدعم / https://api.whatsapp.com/send?phone=+967772005659
 ╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "يوتيوب 📍","url": `${websitex}`}},{"urlButton": {"displayText": "الدعم🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "تبرع 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "المطور 👤","id": 'owner'}}] )
 break
 case 'indomenu':
@@ -10326,9 +10326,7 @@ break
 case 'tqtt': 
 	   if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
-reply(`اخواتي طبعا🌚❤️
-واخواتي اياتو ولوفي ورايزل واكازا واياد  
-وشكرا لك ياللي بتستخدم البوت🌚❤️ `)
+reply(`🌚❤ابو وسيم عداية 🌚❤️ `)
 break
             default:
                 if (budy.startsWith('=>')) {
