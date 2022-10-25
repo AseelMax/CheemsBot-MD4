@@ -2,7 +2,7 @@
 
 <h1 align="center">⚜️ᗷOT ᗴᒪᘜᗩᘔᗩᖇ⚜️<br></h1>
 <p align="center">
-<img src="https://lh6.googleusercontent.com/91L1xCWnIbjM3aLAtsNE2b67bLohkvGmVCvCN_j6fNaYiQlU4K6u0MXD7cF37cK7eAS_BjkfgFYViOxOTsYxYHE=w1280" alt="animated" width="540" height="280" />
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd20ftiO9zPnKyhD29o7MWogc2em1bN1s2dNHf39ciG1utj7CSzvXwtPISoUxhlrqRKVOWiYfhspa0AzOnJ8LrhP_5A_zXAnDegrg9CKW02zZnfFhZCPCN9nxQNCrBCXWvb0fg5-Kw3ghqgBfwIenYfY-UJbb95rAQck5DV4LVVrkwutd9AcaVIiVQ/s1280/gojosensei.jpg" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
